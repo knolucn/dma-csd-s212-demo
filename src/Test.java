@@ -16,4 +16,5 @@ public class Test {
 	}
 	
 	private int a;
+	private Double Jane;
 }
